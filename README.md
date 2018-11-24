@@ -1,2 +1,3 @@
-# web_boilerplate
-Boilerplate project
+# Web Project 1
+
+React boilerplate
