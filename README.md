@@ -12,5 +12,5 @@
 
 ## Usage
 
-Run `npm run build` to build
-Run `npm start` to start the server
+Run `npm run build` to build.<br/>
+Run `npm start` to start the server.
