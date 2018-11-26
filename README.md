@@ -1,6 +1,6 @@
 # React Boilerplate Project
 
-## Boilerplate with the following characteristics
+## Boilerplate with the following features:
 
 <ul>
     <li> Server Side Rendering </li>
